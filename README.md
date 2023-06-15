@@ -1,2 +1,2 @@
-# clone-react-bootstrap-sample
+# react-template
 Created with CodeSandbox
